@@ -20,7 +20,9 @@
 ---
 
 ## 🚀 About Me:
-- 🔭 Currently working on an exciting project: [EventEase](https://github.com/Yashsingh045/EventEase), simplifying event management.
+- 🔭 Currently working on two exciting projects:
+    - [ShopsMart](https://github.com/Yashsingh045/ShopsMart_DevOps), E-Commerce Platform
+    - [My-NoteBook](https://github.com/Yashsingh045/My-Notebook), Personal Knowledge Management & Learning Platform.
 
 - 🌱 Expanding my skillset with **Angular.js** and diving into the world of **Kubernetes**.
 
