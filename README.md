@@ -79,15 +79,15 @@ I am a **CSE Student** dedicated to building high-performance applications and e
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsingh045&theme=radical" alt="Profile Details" />
 </p>
-<!-- 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsingh045&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/yashsingh045/yashsingh045/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+</p> -->
 
 ---
 
