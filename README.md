@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="profile_banner.png" alt="Yashveer's Banner" width="100%">
-</p>
 
-<h1 align="center">Hey there! I'm Yashveer Singh 👋</h1>
+<h1 align="center">Hi, I'm Yashveer Singh 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Crafting+Seamless+Interfaces;Building+Mobile+Experiences;Exploring+the+Decentralized+Web;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
@@ -81,10 +78,11 @@ I am a **CSE Student** dedicated to building high-performance applications and e
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashsingh045&theme=radical" alt="Profile Details" />
 </p>
-
+<!-- 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsingh045&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yashsingh045/yashsingh045/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -110,11 +108,14 @@ I am a **CSE Student** dedicated to building high-performance applications and e
   <a href="https://www.codechef.com/users/yashsingh_045" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
+  <a href="https://codeforces.com/profile/yashsingh_045" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </p>
 
 ---
-
+<!-- 
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i><br>
   <b>Happy Coding! 🚀</b>
-</p>
+</p> -->
