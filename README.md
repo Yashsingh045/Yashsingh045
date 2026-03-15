@@ -18,6 +18,7 @@ I am a **CSE Student** dedicated to building high-performance applications and e
 - 🔭 **Currently working on:**
   - [ShopsMart](https://github.com/Yashsingh045/ShopsMart_DevOps) — A scalable E-Commerce platform with an advanced DevOps pipeline.
   - [My-NoteBook](https://github.com/Yashsingh045/My-Notebook) — A premium personal knowledge management system.
+  - [Intelligent-Solar-Energy-Generation-Forecasting](https://github.com/Yashsingh045/Intelligent-Solar-Energy-Generation-Forecasting) — AI-driven analytics system that forecasts solar energy generation using historical weather data, and extends it into an agentic AI assistant that generates structured grid optimization and energy utilization recommendations.
 - 🌱 **Learning:** Advanced Kubernetes patterns, Microservices architecture, and Angular.
 - 👨‍💻 **Portfolio:** [yashveer-singh.vercel.app](https://yashveer-singh.vercel.app/)
 - 📫 **Reach me:** [astomar6396@gmail.com](mailto:astomar6396@gmail.com)
